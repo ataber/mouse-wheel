@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "right-now": "^1.0.0",
-    "to-px": "^1.0.1",
+    "to-px": "1.0.1",
     "signum": "^1.0.0"
   },
   "devDependencies": {},
